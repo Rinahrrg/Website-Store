@@ -1,2 +1,3 @@
 # Website
-Website para un negocio.
+Website para un negocio. 
+Store website.
